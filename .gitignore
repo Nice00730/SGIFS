@@ -1,5 +1,5 @@
-!*.exe
-!*.lib
+*.exe
+*.lib
 
 # Prerequisites
 *.d
