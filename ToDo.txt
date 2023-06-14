@@ -1,9 +1,10 @@
 1. Dynamic texture and audio loading
-2. Character class
-3. Level and Scene Classes
-4. Enemy AI
-5. Enable the video handler (select the sfeMovie/Motion library)
+2. Enemy AI
+3. Enable the video handler (select the sfeMovie/Motion library)
 (
 http://sfemovie.yalir.org/latest/
 https://github.com/zsbzsb/Motion
 )
+4. Porting SAM from c to c++
+5. Animation
+6. Saving
