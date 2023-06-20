@@ -1,4 +1,4 @@
-1. Dynamic texture and audio loading
+1. Dynamic texture and audio loading~
 2. Enemy AI
 3. All video playback libraries are obsolete... still have to write them
 4. Porting SAM from c to c++
